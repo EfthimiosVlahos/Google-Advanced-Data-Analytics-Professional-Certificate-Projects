@@ -89,7 +89,7 @@ This repository contains the projects completed as part of the Google Advanced D
 
 The projects included in this repository are as follows:
 
-1. [Project 1: New York City Taxi and Limousine Commission (TLC)](https://github.com/EfthimiosVlahos/Google-Advanced-Data-Analytics-Professional-Certificate-Projects/blob/main/Exemplar_Course%203%20Automatidata%20project%20lab.ipynb)
+1. [Project 1: New York City Taxi and Limousine Commission (TLC)](https://github.com/EfthimiosVlahos/Google-Advanced-Data-Analytics-Professional-Certificate-Projects/tree/main/TLC)
 
 - Automatidata is consulting for the New York City Taxi and Limousine Commission (TLC). New York City TLC is an agency responsible for licensing and regulating New York City's taxi cabs and for-hire vehicles. The agency has partnered with Automatidata to develop a regression model that helps estimate taxi fares before the ride, based on data that TLC has gathered. 
 
@@ -129,7 +129,7 @@ Note: This project's dataset was created for pedagogical purposes and may not be
       - Summarize the findings and insights from the regression model for both Automatidata and stakeholders at TLC.
       - Communicate the results effectively, highlighting the model's predictive capabilities and its implications for decision-making.
 
-2. [Project 2: TikTok](https://github.com/EfthimiosVlahos/Google-Advanced-Data-Analytics-Professional-Certificate-Projects/blob/main/Exemplar_Course%202%20TikTok%20project%20lab%20(1).ipynb)
+2. [Project 2: TikTok](https://github.com/EfthimiosVlahos/Google-Advanced-Data-Analytics-Professional-Certificate-Projects/tree/main/Tiktok)
 
 - At TikTok, our mission is to inspire creativity and bring joy. Our employees lead with curiosity and move at the speed of culture. Combined with our company's flat structure, you'll be given dynamic opportunities to make a real impact on a rapidly expanding company and grow your career. TikTok users have the ability to report videos and comments that contain user claims. These reports identify content that needs to be reviewed by moderators. This process generates a large number of user reports that are difficult to address quickly. TikTok is working on the development of a predictive model that can determine whether a video contains a claim or offers an opinion. With a successful prediction model, TikTok can reduce the backlog of user reports and prioritize them more efficiently.
 
@@ -165,7 +165,7 @@ Note: This project's dataset was created for pedagogical purposes and may not be
       - Evaluate the performance of the developed model through appropriate metrics and techniques.
       - Summarize the findings and insights derived from the model for cross-departmental stakeholders within TikTok.
 
-3. [Project 3: Waze](https://github.com/EfthimiosVlahos/Google-Advanced-Data-Analytics-Professional-Certificate-Projects/blob/main/Exemplar_Course%202%20Waze%20project%20lab%20(1).ipynb)
+3. [Project 3: Waze](https://github.com/EfthimiosVlahos/Google-Advanced-Data-Analytics-Professional-Certificate-Projects/tree/main/Waze)
 
 - Waze’s free navigation app makes it easier for drivers around the world to get to where they want to go. Waze’s community of map editors, beta testers, translators, partners, and users helps make each drive better and safer. Waze partners with cities, transportation authorities, broadcasters, businesses, and first responders to help as many people as possible travel more efficiently and safely. You’ll collaborate with your Waze teammates to analyze and interpret data, generate valuable insights, and help leadership make informed business decisions. Your team is about to start a new project to help prevent user churn on the Waze app. Churn quantifies the number of users who have uninstalled the Waze app or stopped using the app. This project focuses on monthly user churn. In your role, you will analyze user data and develop a machine learning model that predicts user churn. 
 
